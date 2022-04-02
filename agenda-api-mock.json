@@ -1,0 +1,41 @@
+{
+    "source": "mockoon:1.16.0",
+    "data": [
+        {
+            "type": "environment",
+            "item": {
+                "uuid": "6c1e2a72-911f-4de6-829c-caa0fbc1c06c",
+                "lastMigration": 18,
+                "name": "Agenda API",
+                "endpointPrefix": "api",
+                "latency": 0,
+                "port": 10000,
+                "hostname": "0.0.0.0",
+                "routes": [],
+                "proxyMode": false,
+                "proxyHost": "",
+                "proxyRemovePrefix": false,
+                "https": false,
+                "cors": true,
+                "headers": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/json"
+                    }
+                ],
+                "proxyReqHeaders": [
+                    {
+                        "key": "",
+                        "value": ""
+                    }
+                ],
+                "proxyResHeaders": [
+                    {
+                        "key": "",
+                        "value": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
